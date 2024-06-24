@@ -205,7 +205,6 @@
 				09F09FBF3DC9506CEF35A10B /* Pods-RunnerTests.release.xcconfig */,
 				9CA5EC952337487C4B0873E3 /* Pods-RunnerTests.profile.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -249,9 +248,9 @@
 				97C146EA1CF9000F007C117D /* Sources */,
 				97C146EB1CF9000F007C117D /* Frameworks */,
 				97C146EC1CF9000F007C117D /* Resources */,
+				EDCCBC082C2A15C50053405D /* Embed Foundation Extensions */,
 				9705A1C41CF9048500538489 /* Embed Frameworks */,
 				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
-				EDCCBC082C2A15C50053405D /* Embed Foundation Extensions */,
 				C293F9B09EF4370DCF8A4D18 /* [CP] Embed Pods Frameworks */,
 				F007CF2B9066DDD9D627C6B0 /* [CP] Copy Pods Resources */,
 			);
